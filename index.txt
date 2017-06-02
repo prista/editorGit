@@ -1,0 +1,30 @@
+nothing added to commit but untracked files present (use "git add" to track)
+victor@burba-v:~/self/Editor$ 
+victor@burba-v:~/self/Editor/editorGit$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+nothing to commit, working directory clean
+victor@burba-v:~/self/Editor/editorGit$ 
+victor@burba-v:~/self/EditorGit$ 
+victor@burba-v:~/self$ git clone https://github.com/prista/editorGit.git
+Cloning into 'editorGit'...
+remote: Counting objects: 3, done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+Checking connectivity... done.
+victor@burba-v:~/self$ 
+victor@burba-v:~/self/Editor$ git clone https://github.com/prista/editorGit.git
+Cloning into 'editorGit'...
+remote: Counting objects: 3, done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+Checking connectivity... done.
+victor@burba-v:~/self/Editor$ git status
+fatal: Not a git repository (or any parent up to mount point /home/victor)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+victor@burba-v:~/self/Editor$ 
+victor@burba-v:~/self/Editor/editorGit$ touch index.txt
+victor@burba-v:~/self/Editor/editorGit$ gedit index.txt 
+victor@burba-v:~/self/Editor/editorGit$ 
+
