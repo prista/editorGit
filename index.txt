@@ -10,14 +10,14 @@ Cloning into 'editorGit'...
 remote: Counting objects: 3, done.
 remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 Unpacking objects: 100% (3/3), done.
-Checking connectivity... done.
+Checking connectivity... done.fsdfsdaf
 ~/self/Editor$ git clone https://github.com/prista/editorGit.git
-Cloning into 'editorGit'...
+Cloning into 'editorGit'...fasdfsdafsd
 remote: Counting objects: 3, done.
 remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 Unpacking objects: 100% (3/3), done.
-Checking connectivity... done.
-:~/self/Editor$ git status
+Checking connectivity... done.fasdfsd
+:~/self/Editor$ git statusfsdafsdfsd
 fatal: Not a git repository (or any parent up to mount point )
 Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
 ~/self/Editor/editorGit$ 
