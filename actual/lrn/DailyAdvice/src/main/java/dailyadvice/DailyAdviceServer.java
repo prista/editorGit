@@ -36,7 +36,6 @@ public class DailyAdviceServer {
 
     private String getAdvice() {
         int random = (int) (Math.random() * adviceList.length);
-        log.info("Номер совета: " + adviceList[random]);
         return adviceList[random];
 
     }
